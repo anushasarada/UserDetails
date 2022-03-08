@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UserDetails</string>
+    <string name="no_ui_elements">There are no UI elements to display\nPlease try again in some time.</string>
+    <string name="info_text">Click on the button below\nand\nEnter your details!</string>
+    <string name="no_internet">Please check your Internet connection !</string>
+    <string name="lets_go_button_text">Let\'s Go</string>
+</resources>
